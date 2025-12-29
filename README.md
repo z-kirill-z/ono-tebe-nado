@@ -1,4 +1,4 @@
-https://github.com/username/ono-tebe-nado-ad
+https://github.com/z-kiruha-z/ono-tebe-nado-ad
 
 # Яндекс Практикум, 1 спринт, проект "Оно тебе надо"
 
