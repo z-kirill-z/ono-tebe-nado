@@ -20,12 +20,12 @@ https://github.com/z-kirill-z/ono-tebe-nado
 
 ### Ссылки
 
-- URL решения: [Github](https://github.com/MikeBeloborodov/ono-tebe-nado)
+- URL решения: [Github](https://github.com/z-kirill-z/ono-tebe-nado)
 - URL лайв сервера: [Netlify](https://startling-smakager-41be0b.netlify.app/)
 
 ## Автор
 
-- Github - [MikEBeloborodov](https://github.com/z-kiruha-z)
+- Github - [z-kiruha-z](https://github.com/z-kiruha-z)
 
 ## Благодарность
 
